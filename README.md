@@ -39,3 +39,6 @@
 - Authentication : 인증이 된 클라이언트인가? 이 클라이언트를 들여보내도 되는가?
 - Authorization : 데이터 범위를 어디까지 제공할 것인지 **권한 부여**
 - API 서버 : 클라이언트에게 데이터를 제공
+
+(참고문헌 : <https://jsonobject.tistory.com/361>)
+
